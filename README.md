@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**Dadipp/Dadipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Dimas Adi Prasetyo!
 
-Here are some ideas to get you started:
+💻 Junior Data about my journey and learnings in tech<br/>
+🎓 Studied Informatics Engineering at University Krisnadwipayana<br/>
+🧠 Interested in Data Science, tech, and productivity<br/>
+📊 Currently learning about Data Analytics and [Data Science](https://dibimbing.id/)!<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Dimas's github stats](https://github-readme-stats.vercel.app/api?username=dadipp&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
