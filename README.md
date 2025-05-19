@@ -4,7 +4,7 @@
 
 💻 Junior Data about my journey and learnings in tech<br/>
 🎓 Under Graduate in Informatics Engineering at University Krisnadwipayana<br/>
-🧠 Interested in Data Science, tech, and productivity<br/>
+🧠 Interested in Data Science, Data Analyst, and Machine Learning<br/>
 📊 Currently learning about Data Analytics and [Data Science](https://dibimbing.id/)!<br/>
 
 
