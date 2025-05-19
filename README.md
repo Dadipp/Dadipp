@@ -3,7 +3,7 @@
 ### Hi, I'm Dimas Adi Prasetyo!
 
 💻 Junior Data about my journey and learnings in tech<br/>
-🎓 Studied Informatics Engineering at University Krisnadwipayana<br/>
+🎓 Under Graduate in Informatics Engineering at University Krisnadwipayana<br/>
 🧠 Interested in Data Science, tech, and productivity<br/>
 📊 Currently learning about Data Analytics and [Data Science](https://dibimbing.id/)!<br/>
 
