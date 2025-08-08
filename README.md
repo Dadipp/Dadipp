@@ -50,7 +50,7 @@
 </table>
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Dadipp&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dadipp&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dadipp&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
